@@ -1,5 +1,7 @@
 ## Hi there 👋
 
 ## About Me
- I'm a **22-year-old** student from **Argentina** 🇦🇷, passionate about technology 💻 and programming 👨‍💻. I hold a **Technical degree in Informatics** 🖥️ and am currently pursuing a **Bachelor’s degree in Systems** 🎓. I've been programming since I was **16** ⌨️, and over the years, I've developed a strong foundation in software development 🔧 and system design 🧩.
+ I'm a **22-year-old** student from **Argentina** 🇦🇷, passionate about technology 💻 and programming 👨‍💻. 
+ I hold a **Technical degree in Informatics** 🖥️ and am currently pursuing a **Bachelor’s degree in Systems** 🎓.
+ I've been programming since I was **16** ⌨️, and over the years, I've developed a strong foundation in software development 🔧 and system design 🧩.
 
